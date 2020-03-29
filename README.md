@@ -1,4 +1,5 @@
-[Rocketseat](https://rocketseat.com.br/)
+# Proposta da OmniStack | Semana OmniStack 11.0 | BE THE HERO
+## [Rocketseat](https://rocketseat.com.br/)
 
   ### Desenvolvida por: [Emerson Pereira da Silva](https://www.linkedin.com/in/emerson-silva-b266b840)
 
